@@ -14,8 +14,5 @@ window.addEventListener('keydown', (e) => {
           ${e.code}
           <small>event.code</small>
       </div>
-      <div class="key">
-          <h2>Press any key code to get the code</h2>
-      </div>
   `
 })
